@@ -10,3 +10,9 @@ clap = { version = "3.0.7", features = ["derive"] }
 reqwest = "0.10.6"
 futures = { version = "0.3.*" }
 tokio = {version = "0.2.*", features = ["full"] }
+select = "0.5.0"
+concurrent-queue = "1.2.2"
+threadpool = "1.8.1"
+crossbeam-channel = "0.5.2"
+url = "2.2.2"
+dashmap = "5.0.0"
